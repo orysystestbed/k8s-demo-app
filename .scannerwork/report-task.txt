@@ -2,5 +2,5 @@ projectKey=orysystestbed_k8s-demo-app_def373c1-be90-4002-b68b-db1ac175bb0d
 serverUrl=http://192.168.211.35:9000
 serverVersion=26.3.0.120487
 dashboardUrl=http://192.168.211.35:9000/dashboard?id=orysystestbed_k8s-demo-app_def373c1-be90-4002-b68b-db1ac175bb0d
-ceTaskId=b70fc67e-e755-4a9e-bac0-3ffa49048877
-ceTaskUrl=http://192.168.211.35:9000/api/ce/task?id=b70fc67e-e755-4a9e-bac0-3ffa49048877
+ceTaskId=23196489-ee88-42f9-b950-7c692e392ead
+ceTaskUrl=http://192.168.211.35:9000/api/ce/task?id=23196489-ee88-42f9-b950-7c692e392ead
